@@ -1,4 +1,4 @@
-# ContactHub-C
+# AddressBook
 
 A lightweight, command-line address book application written in C for managing contacts efficiently. Store, search, edit, and organize your contacts with persistent CSV file storage.
 
@@ -154,9 +154,13 @@ This project is open source and available for educational purposes.
 
 ## Author
 
-Your Name - Initial work
+Krishnakant C. Pore
 
 ## Acknowledgments
 
 - Built as a learning project for C programming
 - Demonstrates file I/O, structure manipulation, and input validation
+
+## Repository
+
+GitHub: [https://github.com/SLADE0261/AddressBook](https://github.com/SLADE0261/AddressBook)
